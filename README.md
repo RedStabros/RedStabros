@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @RedStabros
-- 👀 I'm interested in learning about Front-End
-- 🌱 I'm currently learning React and working in VueJs and Tailwind
+- 👀 I'm working in Front-End
+- 🌱 I'm currently working in VueJs and Tailwind
 - 💞️ I am looking to collaborate in social support projects and Cripto Projects
 - 📫 Contact me at email udcarkangel@gmail.com
 
