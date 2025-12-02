@@ -1,6 +1,6 @@
-- 👋 Hi, I'm @RedStabros
-- 👀 I'm working in Front-End
-- 🌱 I'm currently working in VueJs and Tailwind
+- 👋 Hi, I'm @RedStabros from Colombia
+- 👀 I'm working in Front-End and app development
+- 🌱 I'm currently working in VueJs and Tailwind as frontend and React Native with Typescript in app development
 - 💞️ I am looking to collaborate in social support projects and Cripto Projects
 - 📫 Contact me at email udcarkangel@gmail.com
 
